@@ -1,0 +1,15 @@
+{
+  "name": "adventure-time",
+  "version": "1.0.0",
+  "description": "An API for Aventure Time vans",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Cameron Wright",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
